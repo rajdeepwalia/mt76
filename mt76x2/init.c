@@ -4,6 +4,7 @@
  * Copyright (C) 2018 Lorenzo Bianconi <lorenzo.bianconi83@gmail.com>
  */
 
+#include <linux/version.h>
 #include "mt76x2.h"
 #include "eeprom.h"
 #include "../mt76x02_phy.h"

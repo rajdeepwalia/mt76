@@ -6,6 +6,7 @@
  * Copyright (C) 2018 Stanislaw Gruszka <stf_xl@wp.pl>
  */
 
+#include <linux/version.h>
 #include "mt76x0.h"
 #include "eeprom.h"
 #include "mcu.h"

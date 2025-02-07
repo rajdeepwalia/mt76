@@ -6,6 +6,7 @@
 #ifndef __MT76x2_H
 #define __MT76x2_H
 
+#include <linux/version.h>
 #include <linux/device.h>
 #include <linux/dma-mapping.h>
 #include <linux/spinlock.h>
